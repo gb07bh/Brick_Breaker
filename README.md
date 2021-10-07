@@ -1,4 +1,4 @@
-###Brick Breaker Game <br><br>
+# Brick Breaker Game <br><br>
 I have developed this Game with reference to The Complete Python Game Development Course by Martin Yanev.<br>
 It has been developed using Tkinter.
 <br><br>
